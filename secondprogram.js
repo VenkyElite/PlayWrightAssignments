@@ -1,0 +1,1 @@
+for(i=0;i<=10;i++)console.log("Learn Playwright") //Print String value for 10 times using for loop//
